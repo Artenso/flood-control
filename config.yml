@@ -1,0 +1,3 @@
+time_interval: 1
+calls_limit: 2
+redis_url: "redis://:@localhost:6379/0"
